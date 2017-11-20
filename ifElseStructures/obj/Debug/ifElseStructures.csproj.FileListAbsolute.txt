@@ -1,0 +1,6 @@
+H:\C#\dicisionStructures\ifElseStructures\ifElseStructures\obj\Debug\ifElseStructures.csproj.CoreCompileInputs.cache
+H:\C#\dicisionStructures\ifElseStructures\ifElseStructures\bin\Debug\ifElseStructures.exe.config
+H:\C#\dicisionStructures\ifElseStructures\ifElseStructures\bin\Debug\ifElseStructures.exe
+H:\C#\dicisionStructures\ifElseStructures\ifElseStructures\bin\Debug\ifElseStructures.pdb
+H:\C#\dicisionStructures\ifElseStructures\ifElseStructures\obj\Debug\ifElseStructures.exe
+H:\C#\dicisionStructures\ifElseStructures\ifElseStructures\obj\Debug\ifElseStructures.pdb
